@@ -1,5 +1,4 @@
 # small-project
 
-## github
+## Fruit Juice Machine in Java
 
-wow
